@@ -39,7 +39,7 @@ Self-host your own databases, services (like WordPress, Plausible Analytics, Gho
 - [Applications](/docs/applications.md): Deploy web applications on Coolify with Nixpacks, Docker, static sites, build packs, environment variables, and automated deployments.
 - [Build Packs](/docs/applications/build-packs/overview.md): Choose from Nixpacks, Static, Dockerfile, or Docker Compose build packs to create optimized Docker images for your application deployments.
 - [CI/CD with Git Providers](/docs/applications/ci-cd/introduction.md): Learn how Coolify applications integrate with Git providers for continuous deployment. Understand the difference between Git-based applications and Docker Compose services.
-
+ 
 #### Frameworks
 
 - [Django](/docs/applications/django.md): Deploy Django applications on Coolify with gunicorn, automatic builds, environment variables, and Python package management.
